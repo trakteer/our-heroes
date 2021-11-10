@@ -4,26 +4,53 @@
     "username": "CeV4n",
     "name": "Caesar Evan Santoso",
     "link": "https://caesarevan.github.io/"
-  },{
+  },
+  {
     "avatar": "images/Noid3a.jpg",
     "username": "Noid3a",
     "name": "Rexy Fahrezi",
     "link": "http://rexyfahrezi.github.io/"
-  },{
+  },
+  {
     "username": "exzettabyte",
     "name": "Paska Parahita"
-  },{
+  },
+  {
     "avatar": "images/fariz.jpeg",
     "username": "faultable",
     "name": "Fariz",
     "link": "https://faultable.dev/"
-  },{
+  },
+  {
     "username": "naufal_ansar",
     "name": "Naufal Ariq"
-  },{
+  },
+  {
     "username": "Muhamad Nur Arifin S"
-  },{
+  },
+  {
     "avatar": "images/fauzi-bariq.png",
     "username": "Fauzi Bariq Mahya"
+  },
+  {
+    "avatar": "images/norahmad.jpg",
+    "name": "Nor Ahmad",
+    "link": "https://www.linkedin.com/in/norahmad/"
+  },
+  {
+    "avatar": "images/Mumeido.jpeg",
+    "username": "Mumeido",
+    "name": "Muhammad Syahrul Haniawa",
+    "link": "https://www.instagram.com/mumeido/"
+  },
+  {
+    "avatar": "images/Humam.jpg",
+    "name": "Humam",
+    "link": "https://www.instagram.com/kalimulhumam/"
+  },
+  {
+    "avatar": "images/Christopher.png",
+    "name": "Christopher Winston",
+    "link": "https://www.linkedin.com/in/christopher-winston/"
   }
 ]
