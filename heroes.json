@@ -34,7 +34,7 @@
   },
   {
     "avatar": "images/norahmad.jpg",
-    "name": "Nor Ahmad",
+    "username": "Nor Ahmad",
     "link": "https://www.linkedin.com/in/norahmad/"
   },
   {
@@ -45,12 +45,12 @@
   },
   {
     "avatar": "images/Humam.jpg",
-    "name": "Humam",
+    "username": "Humam",
     "link": "https://www.instagram.com/kalimulhumam/"
   },
   {
     "avatar": "images/Christopher.png",
-    "name": "Christopher Winston",
+    "username": "Christopher Winston",
     "link": "https://www.linkedin.com/in/christopher-winston/"
   }
 ]
